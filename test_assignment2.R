@@ -1,3 +1,4 @@
+##source: http://masterr.org/r/how-to-cache-a-matrix-inversion-in-r/
 test = function(mat){
     ## @mat: an invertible matrix
     
